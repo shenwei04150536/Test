@@ -1,4 +1,4 @@
-ÐÞ¸Ä²âÊÔ£¡10:58 2014/10/8
+this is a modify test!   10:58 2014/10/8
 
 
 
@@ -199,7 +199,7 @@
 09-25 10:35:19.435: I/PluginWrapper(6987): runOnGLThread sGLSurfaceView is null
 09-25 10:35:19.435: D/ProtocolIAP(6987): nativeOnPayResult(), Get plugin ptr : 0x637fb548
 09-25 10:35:19.435: D/ProtocolIAP(6987): nativeOnPayResult(), Get plugin name : IAPMarble
-09-25 10:35:19.435: D/ProtocolIAP(6987): Pay result is : 1(Ö§¸¶Ê§°Ü)
+09-25 10:35:19.435: D/ProtocolIAP(6987): Pay result is : 1(Ã–Â§Â¸Â¶ÃŠÂ§Â°Ãœ)
 09-25 10:35:19.435: D/PointerIcon(2238): setHoveringSpenIconStyle1 pointerType: 10001iconType:1
 09-25 10:35:19.435: D/PointerIcon(2238): setHoveringSpenCustomIcon IconType is same.1
 09-25 10:35:19.435: I/GLSurfaceView_TAOMEE(6987): GLThread.onWindowFocusChanged(): Focus lost
