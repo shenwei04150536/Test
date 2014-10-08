@@ -1,0 +1,685 @@
+09-25 10:35:15.705: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:15.705: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:15.705: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:15.705: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:16.965: I/charon(20509): 11[IKE] sending keep alive to 192.95.26.227[4670]
+09-25 10:35:17.280: I/InputReader(2238): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.12902 ]
+09-25 10:35:17.280: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x0
+09-25 10:35:17.280: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x0
+09-25 10:35:17.280: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x0
+09-25 10:35:17.280: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x0
+09-25 10:35:17.360: I/InputReader(2238): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=]
+09-25 10:35:17.360: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x1
+09-25 10:35:17.360: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x1
+09-25 10:35:17.360: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x1
+09-25 10:35:17.360: I/InputDispatcher(2238): Delivering touch to current input target: action: 0x1
+09-25 10:35:17.365: D/GestureDetector(6987): [Surface Touch Event] mSweepDown False, mLRSDCnt : -1 mTouchCnt : 2 mFalseSizeCnt:0
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): payForProduct id:0 product id:80002
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): payForProduct price:100 gift number:0
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): the channel is Kr Kakao channel 
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): ------------ItemId = reverse_test-------
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): ------------UserKey = 92211989285994786-------
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): ------------UserId = 375-------
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): ------------UserTime = 1407937336-------
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): ------------channelId = 1010-------
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): ------------ServerId = 5001220-------
+09-25 10:35:17.375: D/cocos2d-x debug info(6987): ------------UserType = kakao-------
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[GameId] = 601
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[ItemId] = reverse_test
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[ServerId] = 5001220
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[UserId] = 375
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[UserKey] = 92211989285994786
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[UserTime] = 1407937336
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[UserType] = kakao
+09-25 10:35:17.380: D/cocos2d-x debug info(6987): pinfo[channelId] = 1010
+09-25 10:35:17.380: V/IAPMarble(6987): request:http://220.95.225.179/platform/webserver/kakao_initialize_pay.php?GameCode=revwo&StoreType=googleplay&ItemId=reverse_test&UserType=kakao&ServerId=5001220&UserTime=1407937336&UserId=375&GameId=601&UserKey=92211989285994786
+09-25 10:35:17.460: D/PointerIcon(2238): setHoveringSpenIconStyle1 pointerType: 10001iconType:1
+09-25 10:35:17.460: D/PointerIcon(2238): setHoveringSpenCustomIcon IconType is same.1
+09-25 10:35:17.485: I/SurfaceFlinger(1935): id=9883(7) createSurf 0x40f9c8a4 (1x1),1 flag=0, bdventure
+09-25 10:35:17.490: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:17.525: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:17.525: I/GLSurfaceView_TAOMEE(6987): GLThread.onWindowFocusChanged(): Focus lost
+09-25 10:35:17.525: I/GLSurfaceView_TAOMEE(6987): GLThread.nativeonWindowFocusChanged: openKeyBoardStatus:0x%x false
+09-25 10:35:17.540: D/cocos2d-x debug info(6987): Java_org_cocos2dx_lib_GLThreadManager_nativeonWindowFocusChanged 0
+09-25 10:35:17.540: D/cocos2d-x debug info(6987): applicationWindowFocusChanged 526 ,[1 ,0]
+09-25 10:35:17.540: V/StagefrightPlayer(1938): isPlaying
+09-25 10:35:17.540: V/MediaPlayerService(1938): [107] isPlaying: 1
+09-25 10:35:17.540: V/MediaPlayer(6987): isPlaying: 1
+09-25 10:35:17.540: V/MediaPlayer-JNI(6987): isPlaying: 1
+09-25 10:35:17.540: V/MediaPlayer-JNI(6987): pause
+09-25 10:35:17.540: V/MediaPlayer(6987): pause
+09-25 10:35:17.540: V/MediaPlayerService(1938): [107] pause
+09-25 10:35:17.540: V/StagefrightPlayer(1938): pause
+09-25 10:35:17.540: V/AwesomePlayer(1938): pause
+09-25 10:35:17.540: V/AudioSink(1938): pause
+09-25 10:35:17.540: V/LvOutput(1938): initCheck: 0
+09-25 10:35:17.540: V/LvOutput(1938): detachEffects: detach processing for output 2, stream 3, session 492
+09-25 10:35:17.540: V/LvOutput(1938): detachEffects: no output processing was attached to this stream
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): stopOutput() output 2, stream 3, session 492
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): changeRefCount() stream 3, count 0
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): getNewDevice() selected device 0
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): setOutputDevice() output 2 device 0000 force 0 delayMs 184 
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): setOutputDevice() prevDevice 0002
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): setOutputDevice() setting same device 0000 or null device for output 2
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): checkOutputForStrategy(0002,0002,3)
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:17.540: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.540: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:17.545: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:17.555: D/cocos2d-x debug info(6987): isAppOnForeground 640, 1
+09-25 10:35:17.555: D/cocos2d-x debug info(6987): applicationDidEnterBackground 512 ,1
+09-25 10:35:17.560: D/cocos2d-x debug info(6987): XLogicManager::DidEnterBackground()
+09-25 10:35:17.705: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:17.710: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:17.710: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:17.710: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:17.795: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:17.795: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.185: V/IAPMarble(6987): onSuccess:{"data":{"productId":"reverse_test","transactionId":"2140925023444010870"},"resCode":"0"}
+09-25 10:35:19.185: V/IAPMarble(6987): 11111111111111111:
+09-25 10:35:19.195: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.200: V/IAPMarble(6987): 22222222222222---------:
+09-25 10:35:19.200: D/PointerIcon(2238): setHoveringSpenIconStyle1 pointerType: 10001iconType:1
+09-25 10:35:19.200: D/PointerIcon(2238): setHoveringSpenCustomIcon IconType is same.1
+09-25 10:35:19.200: V/client_activity(6987): enter startActivity
+09-25 10:35:19.210: I/power(2238): *** acquire_dvfs_lock : lockType : 1  freq : 1000000 
+09-25 10:35:19.210: D/PowerManagerService(2238): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1000000  uid : 1000  pid : 2238  tag : ActivityManager
+09-25 10:35:19.210: W/ActivityManager(2238): mDVFSLock.acquire()
+09-25 10:35:19.340: D/dalvikvm(2238): GC_FOR_ALLOC freed 1894K, 39% free 41031K/67079K, paused 109ms, total 109ms
+09-25 10:35:19.350: I/GLSurfaceView_TAOMEE(6987): GLThread.onWindowFocusChanged(): Focus gained
+09-25 10:35:19.350: I/GLSurfaceView_TAOMEE(6987): GLThread.nativeonWindowFocusChanged: openKeyBoardStatus:0x%x false
+09-25 10:35:19.350: D/cocos2d-x debug info(6987): Java_org_cocos2dx_lib_GLThreadManager_nativeonWindowFocusChanged 1
+09-25 10:35:19.350: D/cocos2d-x debug info(6987): applicationWindowFocusChanged 526 ,[0 ,1]
+09-25 10:35:19.350: V/MediaPlayer-JNI(6987): start
+09-25 10:35:19.350: V/MediaPlayer(6987): start
+09-25 10:35:19.350: V/MediaPlayerService(1938): [107] setLooping(1)
+09-25 10:35:19.350: V/StagefrightPlayer(1938): setLooping
+09-25 10:35:19.350: V/AwesomePlayer(1938): setLooping (1)
+09-25 10:35:19.350: W/InputMethodManagerService(2238): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@43d81b48 attribute=null
+09-25 10:35:19.355: V/MediaPlayerService(1938): [107] setVolume(1.000000, 1.000000)
+09-25 10:35:19.355: V/AudioSink(1938): setVolume(1.000000, 1.000000)
+09-25 10:35:19.355: I/GLThread(6987): onPause tid=1175
+09-25 10:35:19.355: I/Main thread(6987): onPause waiting for mPaused.
+09-25 10:35:19.355: V/MediaPlayerService(1938): [107] setAuxEffectSendLevel(0.000000)
+09-25 10:35:19.355: V/AudioSink(1938): setAuxEffectSendLevel(0.000000)
+09-25 10:35:19.355: V/MediaPlayerService(1938): [107] start
+09-25 10:35:19.355: V/StagefrightPlayer(1938): setLooping
+09-25 10:35:19.355: V/AwesomePlayer(1938): setLooping (1)
+09-25 10:35:19.355: V/StagefrightPlayer(1938): start
+09-25 10:35:19.355: V/AwesomePlayer(1938): play
+09-25 10:35:19.355: V/AwesomePlayer(1938): AwesomePlayer::play_l():: This is not a DRM content
+09-25 10:35:19.355: V/AudioSink(1938): start
+09-25 10:35:19.355: V/LvOutput(1938): initCheck: 0
+09-25 10:35:19.355: V/LvOutput(1938): attachEffects: attach processing to output 2, stream 3, session 492, mode 0
+09-25 10:35:19.355: V/LvOutput(1938): attachEffects: no output processing needs to be attached to this stream
+09-25 10:35:19.355: V/LvOutput(1938): LvOutput::setAllProcessorEnabled(false) mOutputs.size(12)
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): startOutput() output 2, stream 3, session 492
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): changeRefCount() stream 3, count 1
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): getNewDevice() selected device 2
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): setOutputDevice() output 2 device 0002 force 0 delayMs 0 
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): setOutputDevice() prevDevice 0002
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): setOutputDevice() setting same device 0002 or null device for output 2
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): getNewDevice() selected device 2
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): checkOutputForStrategy(0002,0002,3)
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:19.355: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.355: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: V/StagefrightPlayer(1938): isPlaying
+09-25 10:35:19.360: V/MediaPlayerService(1938): [107] isPlaying: 1
+09-25 10:35:19.360: V/MediaPlayer(6987): isPlaying: 1
+09-25 10:35:19.360: V/MediaPlayer-JNI(6987): isPlaying: 1
+09-25 10:35:19.360: V/MediaPlayer-JNI(6987): pause
+09-25 10:35:19.360: V/MediaPlayer(6987): pause
+09-25 10:35:19.360: V/MediaPlayerService(1938): [107] pause
+09-25 10:35:19.360: V/StagefrightPlayer(1938): pause
+09-25 10:35:19.360: V/AwesomePlayer(1938): pause
+09-25 10:35:19.360: V/AudioSink(1938): pause
+09-25 10:35:19.360: V/LvOutput(1938): initCheck: 0
+09-25 10:35:19.360: V/LvOutput(1938): detachEffects: detach processing for output 2, stream 3, session 492
+09-25 10:35:19.360: V/LvOutput(1938): detachEffects: no output processing was attached to this stream
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): stopOutput() output 2, stream 3, session 492
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): changeRefCount() stream 3, count 0
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): getNewDevice() selected device 0
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): setOutputDevice() output 2 device 0000 force 0 delayMs 184 
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): setOutputDevice() prevDevice 0002
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): setOutputDevice() setting same device 0000 or null device for output 2
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): checkOutputForStrategy(0002,0002,3)
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:19.360: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.360: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.365: D/cocos2d-x debug info(6987): isAppOnForeground 640, 1
+09-25 10:35:19.365: D/cocos2d-x debug info(6987): applicationDidEnterBackground 512 ,1
+09-25 10:35:19.365: D/cocos2d-x debug info(6987): XLogicManager::DidEnterBackground()
+09-25 10:35:19.365: I/GLThread(6987): mPaused is now true tid=1175
+09-25 10:35:19.365: I/GLSurfaceView_TAOMEE(6987): releasing EGL surface because paused tid=1175
+09-25 10:35:19.365: I/GLThread(6987): releasing EGL surface because paused tid=1175
+09-25 10:35:19.365: W/EglHelper(6987): destroySurface()  tid=1175
+09-25 10:35:19.385: I/GLSurfaceView_TAOMEE(6987): GLThread.guardedRun(): waiting tid=1175, rendermode continuous=true
+09-25 10:35:19.405: D/PointerIcon(2238): setHoveringSpenIconStyle1 pointerType: 10001iconType:1
+09-25 10:35:19.405: D/PointerIcon(2238): setHoveringSpenCustomIcon IconType is same.1
+09-25 10:35:19.405: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.405: D/WindowManager(2238): mInputFocus is not null.
+09-25 10:35:19.405: D/WindowManager(2238): mInputFocus is not null.
+09-25 10:35:19.405: D/WindowManager(2238): mInputFocus is not null.
+09-25 10:35:19.430: D/Finsky(3794): [184] InAppBillingUtils.getPreferredAccount: com.netmarble.revwo: Account from first account - [8ubK4UGBOrmranOZqJUXOh-LScI]
+09-25 10:35:19.430: D/Finsky(3794): [184] InAppBillingUtils.getPreferredAccount: com.netmarble.revwo: Account from first account - [8ubK4UGBOrmranOZqJUXOh-LScI]
+09-25 10:35:19.430: V/IAPMarble(6987): IAPMarble---PAY_FAIL3
+09-25 10:35:19.435: I/PluginWrapper(6987): runOnGLThread sGLSurfaceView is null
+09-25 10:35:19.435: D/ProtocolIAP(6987): nativeOnPayResult(), Get plugin ptr : 0x637fb548
+09-25 10:35:19.435: D/ProtocolIAP(6987): nativeOnPayResult(), Get plugin name : IAPMarble
+09-25 10:35:19.435: D/ProtocolIAP(6987): Pay result is : 1(Ö§¸¶Ê§°Ü)
+09-25 10:35:19.435: D/PointerIcon(2238): setHoveringSpenIconStyle1 pointerType: 10001iconType:1
+09-25 10:35:19.435: D/PointerIcon(2238): setHoveringSpenCustomIcon IconType is same.1
+09-25 10:35:19.435: I/GLSurfaceView_TAOMEE(6987): GLThread.onWindowFocusChanged(): Focus lost
+09-25 10:35:19.435: I/GLSurfaceView_TAOMEE(6987): GLThread.guardedRun(): waiting tid=1175, rendermode continuous=true
+09-25 10:35:19.435: I/GLSurfaceView_TAOMEE(6987): GLThread.nativeonWindowFocusChanged: openKeyBoardStatus:0x%x false
+09-25 10:35:19.435: D/cocos2d-x debug info(6987): Java_org_cocos2dx_lib_GLThreadManager_nativeonWindowFocusChanged 0
+09-25 10:35:19.435: D/cocos2d-x debug info(6987): applicationWindowFocusChanged 526 ,[1 ,0]
+09-25 10:35:19.435: V/StagefrightPlayer(1938): isPlaying
+09-25 10:35:19.435: V/MediaPlayerService(1938): [107] isPlaying: 0
+09-25 10:35:19.435: V/MediaPlayer(6987): isPlaying: 0
+09-25 10:35:19.435: V/MediaPlayer-JNI(6987): isPlaying: 0
+09-25 10:35:19.435: I/GLSurfaceView_TAOMEE(6987): GLThread.onWindowFocusChanged(): Focus gained
+09-25 10:35:19.435: D/WindowManager(2238): mInputFocus is not null.
+09-25 10:35:19.440: I/GLSurfaceView_TAOMEE(6987): GLThread.nativeonWindowFocusChanged: openKeyBoardStatus:0x%x false
+09-25 10:35:19.440: D/cocos2d-x debug info(6987): isAppOnForeground 640, 1
+09-25 10:35:19.440: D/cocos2d-x debug info(6987): applicationDidEnterBackground 512 ,1
+09-25 10:35:19.440: D/cocos2d-x debug info(6987): XLogicManager::DidEnterBackground()
+09-25 10:35:19.440: D/cocos2d-x debug info(6987): Java_org_cocos2dx_lib_GLThreadManager_nativeonWindowFocusChanged 1
+09-25 10:35:19.440: W/InputMethodManagerService(2238): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@43671be0 attribute=null
+09-25 10:35:19.445: D/cocos2d-x debug info(6987): applicationWindowFocusChanged 526 ,[0 ,1]
+09-25 10:35:19.445: V/MediaPlayer-JNI(6987): start
+09-25 10:35:19.445: V/MediaPlayer(6987): start
+09-25 10:35:19.445: V/MediaPlayerService(1938): [107] setLooping(1)
+09-25 10:35:19.445: V/StagefrightPlayer(1938): setLooping
+09-25 10:35:19.445: V/AwesomePlayer(1938): setLooping (1)
+09-25 10:35:19.445: V/MediaPlayerService(1938): [107] setVolume(1.000000, 1.000000)
+09-25 10:35:19.445: V/AudioSink(1938): setVolume(1.000000, 1.000000)
+09-25 10:35:19.445: V/MediaPlayerService(1938): [107] setAuxEffectSendLevel(0.000000)
+09-25 10:35:19.445: V/AudioSink(1938): setAuxEffectSendLevel(0.000000)
+09-25 10:35:19.445: V/MediaPlayerService(1938): [107] start
+09-25 10:35:19.445: V/StagefrightPlayer(1938): setLooping
+09-25 10:35:19.445: V/AwesomePlayer(1938): setLooping (1)
+09-25 10:35:19.445: V/StagefrightPlayer(1938): start
+09-25 10:35:19.445: V/AwesomePlayer(1938): play
+09-25 10:35:19.445: V/AwesomePlayer(1938): AwesomePlayer::play_l():: This is not a DRM content
+09-25 10:35:19.445: V/AudioSink(1938): start
+09-25 10:35:19.445: V/LvOutput(1938): initCheck: 0
+09-25 10:35:19.445: V/LvOutput(1938): attachEffects: attach processing to output 2, stream 3, session 492, mode 0
+09-25 10:35:19.445: V/LvOutput(1938): attachEffects: no output processing needs to be attached to this stream
+09-25 10:35:19.445: V/LvOutput(1938): LvOutput::setAllProcessorEnabled(false) mOutputs.size(12)
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): startOutput() output 2, stream 3, session 492
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): changeRefCount() stream 3, count 1
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): getNewDevice() selected device 2
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): setOutputDevice() output 2 device 0002 force 0 delayMs 0 
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): setOutputDevice() prevDevice 0002
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): setOutputDevice() setting same device 0002 or null device for output 2
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): getNewDevice() selected device 2
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): checkOutputForStrategy(0002,0002,3)
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:19.445: V/AudioPolicyManagerBase(1938): getOutputsForDevice device 0002 -> 0002
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: D/AudioPolicyManagerBase(1938): getDeviceForStrategy :STRATEGY_MEDIA mAvailableOutputDevices & AUDIO_DEVICE_OUT_EXTERNAL_TMS
+09-25 10:35:19.445: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.445: I/GLSurfaceView_TAOMEE(6987): GLThread.guardedRun(): waiting tid=1175, rendermode continuous=true
+09-25 10:35:19.445: I/SurfaceFlinger(1935): id=9883 Removed bdventure idx=5 MapSz=4
+09-25 10:35:19.445: I/SurfaceFlinger(1935): id=9883 Removed bdventure idx=-2 MapSz=4
+09-25 10:35:19.445: I/AudioResampler(1938): new MM resampler(12000 -> 44100, 1)
+09-25 10:35:19.450: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.450: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.455: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.460: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.460: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.470: I/GLThread(6987): onResume tid=1175
+09-25 10:35:19.470: I/Main thread(6987): onResume waiting for !mPaused.
+09-25 10:35:19.470: I/GLThread(6987): mPaused is now false tid=1175
+09-25 10:35:19.470: W/GLThread(6987): GLThread.guardedRun(): egl createSurface
+09-25 10:35:19.470: D/adventure activity(6987): onResume--------------
+09-25 10:35:19.470: W/EglHelper(6987): createSurface()  tid=1175
+09-25 10:35:19.480: D/KeyguardViewMediator(2238): setHidden false
+09-25 10:35:19.485: W/GLThread(6987): GLThread.guardedRun(): onSurfaceChanged(1280, 720)
+09-25 10:35:19.490: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000004
+09-25 10:35:19.490: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000003
+09-25 10:35:19.490: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000004
+09-25 10:35:19.490: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000004
+09-25 10:35:19.490: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000003
+09-25 10:35:19.500: D/cocos2d-x debug info(6987): applicationWillEnterForeground 576
+09-25 10:35:19.500: D/cocos2d-x debug info(6987): applicationWindowFocusChanged 526 ,[1 ,1]
+09-25 10:35:19.505: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000003
+09-25 10:35:20.185: E/Watchdog(2238): !@Sync 2144
+09-25 10:35:20.210: I/power(2238): *** release_dvfs_lock : lockType : 1 
+09-25 10:35:20.210: D/PowerManagerService(2238): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+09-25 10:35:20.210: W/ActivityManager(2238): mDVFSLock.release()
+09-25 10:35:21.715: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:21.715: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:21.715: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:21.715: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:23.285: W/PowerManagerService(2238): Timer 0x3->0x3|0x3
+09-25 10:35:25.815: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:35:26.420: V/AlarmManager(2238): waitForAlarm result :8
+09-25 10:35:26.430: W/AlarmManager(2238): FACTORY_ON= 0
+09-25 10:35:26.435: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:35:26.440: D/cocos2d-x debug info(6987): serTime  : (1411612129, 1411612142), 13
+09-25 10:35:26.450: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:35:26.725: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:26.725: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:26.725: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:26.725: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:27.725: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:27.725: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:27.725: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:27.725: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:28.370: D/ApplicationPolicy(2238): isStatusBarNotificationAllowed: packageName = com.qihoo360.mobilesafe
+09-25 10:35:28.370: D/STATUSBAR-NotificationService(2238): Noti Alert - mSystemReady:true, AlertEnabled:true
+09-25 10:35:28.375: D/StatusBar(2550): expanding top notification at 6entry.userCollapsed() = false
+09-25 10:35:29.690: D/dalvikvm(11365): GC_CONCURRENT freed 957K, 11% free 13233K/14727K, paused 3ms+2ms, total 38ms
+09-25 10:35:29.730: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:29.730: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:29.730: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:29.730: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:30.730: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:30.730: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:30.730: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:30.730: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:31.445: D/MSF.C.NetConnTag(11365): [E]netRecv ssoSeq:238053112 uin:*5208
+09-25 10:35:31.460: D/Q.msg.MsgProxy(11299): [E]insertToList MessageRecord=friendUin:1609senderuin:3966,istroop:1,msgType:-2000,time:1411612495,shmsgseq:848404
+09-25 10:35:31.630: D/MainService(11299): [MSF End]OnlinePush.PbPushGroupMsg,cost=182ms.
+09-25 10:35:31.635: D/MainService(11299): [MSF End]App_GetDataCount,cost=1ms.
+09-25 10:35:31.735: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:31.735: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:31.735: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:31.735: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:31.755: D/dalvikvm(2238): GC_CONCURRENT freed 1965K, 39% free 41004K/67079K, paused 6ms+15ms, total 154ms
+09-25 10:35:35.000: W/SignalStrength(2238): getGsmLevel=1
+09-25 10:35:35.000: W/SignalStrength(2238): getLevel=1 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:35:35.000: W/SignalStrength(2550): getGsmLevel=1
+09-25 10:35:35.000: W/SignalStrength(2550): getLevel=1 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:35:35.000: W/SignalStrength(2550): getGsmLevel=1
+09-25 10:35:35.000: W/SignalStrength(2550): getLevel=1 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:35:35.000: W/SignalStrength(2238): getGsmDbm=-105
+09-25 10:35:35.000: W/SignalStrength(2238): getDbm=-105
+09-25 10:35:35.000: W/SignalStrength(2238): getGsmAsuLevel=4
+09-25 10:35:35.000: W/SignalStrength(2238): getAsuLevel=4
+09-25 10:35:35.000: D/STATUSBAR-NetworkController(2550): onSignalStrengthsChanged signalStrength=SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1 level=1
+09-25 10:35:36.445: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:35:36.970: I/charon(20509): 10[IKE] sending keep alive to 192.95.26.227[4670]
+09-25 10:35:36.970: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:35:36.975: D/cocos2d-x debug info(6987): serTime  : (1411612142, 1411612152), 10
+09-25 10:35:36.990: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:35:37.980: V/AlarmManager(2238): waitForAlarm result :1
+09-25 10:35:37.985: V/AlarmManager(2238): trigger ELAPSED_REALTIME_WAKEUP or RTC_WAKEUP
+09-25 10:35:39.065: D/Freud(2238): jp.naver.line.android want to wakeup the system in future
+09-25 10:35:39.065: W/AlarmManager(2238): FACTORY_ON= 0
+09-25 10:35:39.535: I/PushInformationService(5286): getPushInformation called
+09-25 10:35:39.645: D/Freud(2238): jp.naver.line.android want to wakeup the system in future
+09-25 10:35:39.645: W/AlarmManager(2238): FACTORY_ON= 0
+09-25 10:35:40.225: D/Freud(2238): jp.naver.line.android want to wakeup the system in future
+09-25 10:35:40.225: W/AlarmManager(2238): FACTORY_ON= 0
+09-25 10:35:41.430: I/PushInformationService(5286): after 498 seconds  get push information again
+09-25 10:35:41.480: D/dalvikvm(5286): GC_CONCURRENT freed 644K, 8% free 12196K/13127K, paused 3ms+5ms, total 63ms
+09-25 10:35:43.975: D/BatteryService(2238): update start
+09-25 10:35:43.975: D/BatteryService(2238): level:86 scale:100 status:2 health:2 present:true voltage: 4149 temperature: 286 technology: Li-ion AC powered:false USB powered:true icon:17303211 invalid charger:0
+09-25 10:35:43.985: E/MtpService(18673): In MTPAPP onReceive:android.intent.action.BATTERY_CHANGED
+09-25 10:35:43.985: E/MtpService(18673): battPlugged Type : 2
+09-25 10:35:43.985: D/STATUSBAR-BatteryController(2550): onReceive() - ACTION_BATTERY_CHANGED
+09-25 10:35:43.985: D/STATUSBAR-BatteryController(2550): onReceive() - level:86
+09-25 10:35:43.985: D/STATUSBAR-BatteryController(2550): onReceive() - plugged:2
+09-25 10:35:43.985: D/STATUSBAR-BatteryController(2550): onReceive() - BATTERY_STATUS_CHARGING:
+09-25 10:35:44.005: D/STATUSBAR-PhoneStatusBar(2550): ACTION_BATTERY_CHANGED
+09-25 10:35:46.985: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:35:47.525: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:35:47.525: D/cocos2d-x debug info(6987): serTime  : (1411612152, 1411612163), 11
+09-25 10:35:47.540: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:35:48.415: D/ApplicationPolicy(2238): isStatusBarNotificationAllowed: packageName = com.qihoo360.mobilesafe
+09-25 10:35:48.420: D/STATUSBAR-NotificationService(2238): Noti Alert - mSystemReady:true, AlertEnabled:true
+09-25 10:35:48.425: D/StatusBar(2550): expanding top notification at 6entry.userCollapsed() = false
+09-25 10:35:48.495: D/dalvikvm(3052): GC_FOR_ALLOC freed 1851K, 13% free 18151K/20679K, paused 74ms, total 74ms
+09-25 10:35:48.495: D/dalvikvm(2238): GC_CONCURRENT freed 1974K, 39% free 41042K/67079K, paused 5ms+17ms, total 164ms
+09-25 10:35:48.830: V/AwesomePlayer(1938): seekAudioIfNecessary_l mSeekTimeUs (0)
+09-25 10:35:48.830: V/AudioSink(1938): flush
+09-25 10:35:48.890: V/AwesomePlayer(1938): notifyListner_l() msg (4-MEDIA_SEEK_COMPLETE), ext1 (0), ext2 (0)
+09-25 10:35:48.890: V/MediaPlayerService(1938): [107] notify (0x41b44e30, 4, 0, 0)
+09-25 10:35:48.890: V/MediaPlayer(6987): message received msg=4, ext1=0, ext2=0
+09-25 10:35:48.890: V/MediaPlayer(6987): Received seek complete
+09-25 10:35:48.890: V/MediaPlayer(6987): All seeks complete - return to regularly scheduled program
+09-25 10:35:48.890: V/MediaPlayer(6987): callback application
+09-25 10:35:48.890: V/MediaPlayer(6987): back from callback
+09-25 10:35:49.310: D/dalvikvm(25310): GC_CONCURRENT freed 514K, 6% free 12108K/12807K, paused 14ms+2ms, total 48ms
+09-25 10:35:50.185: E/Watchdog(2238): !@Sync 2145
+09-25 10:35:51.775: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:51.775: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:51.775: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:51.775: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:56.970: I/charon(20509): 08[IKE] sending keep alive to 192.95.26.227[4670]
+09-25 10:35:57.530: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:35:57.785: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:57.785: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:57.785: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:57.785: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:58.105: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:35:58.105: D/cocos2d-x debug info(6987): serTime  : (1411612163, 1411612173), 10
+09-25 10:35:58.135: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:35:59.785: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:35:59.790: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:59.790: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:59.790: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:35:59.995: V/AlarmManager(2238): waitForAlarm result :8
+09-25 10:36:00.000: V/AlarmManager(2238): ClockReceiver onReceive() ACTION_TIME_TICK
+09-25 10:36:00.000: W/AlarmManager(2238): FACTORY_ON= 0
+09-25 10:36:00.005: D/STATUSBAR-Clock(2550): onReceive() - ACTION_TIME_TICK
+09-25 10:36:00.020: D/STATUSBAR-Clock(2550): onReceive() - ACTION_TIME_TICK
+09-25 10:36:00.125: D/PhoneNumberLocatorBootCompletedReceiver(2725): onReceive
+09-25 10:36:00.125: D/PhoneNumberLocatorBootCompletedReceiver(2725): PhoneNumberLocatorBootCompletedReceiver.onReceive(ACTION_TIME_TICK)
+09-25 10:36:00.140: D/ClockAlarmWidgetService(20454): [ClockAlarmWidgetService] onReceive: action = android.intent.action.TIME_TICK
+09-25 10:36:00.140: E/ClockAlarmWidget(20454): [AlarmWidgetIdManager] getListItem() : itemIndex=0, widgetID:1
+09-25 10:36:00.140: E/ClockAlarmWidget(20454): [AlarmWidgetIdManager] getListItem() : ItemIndex exceed ListItemCount. itemIndex=1
+09-25 10:36:00.140: E/ClockAlarmWidget(20454): [AlarmWidgetIdManager] getListItem() : itemIndex=1, widgetID:1
+09-25 10:36:00.140: D/ClockAlarmWidget(20454): [ClockAlarmWidgetProvider] fillData() - itemIndex:0, listitemID: 0
+09-25 10:36:00.155: D/ClockAlarmDataProvider(20454): getAlarm() - too many same ID alarm data. nCount: 0
+09-25 10:36:00.160: D/ClockAlarmWidget(20454): alarmItem = null
+09-25 10:36:00.250: D/dalvikvm(7750): GC_CONCURRENT freed 863K, 10% free 13028K/14407K, paused 2ms+3ms, total 24ms
+09-25 10:36:02.795: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:02.795: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:02.795: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:02.795: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:03.795: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:03.795: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:03.795: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:03.795: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:05.245: D/dalvikvm(2238): GC_CONCURRENT freed 1941K, 39% free 41036K/67079K, paused 16ms+14ms, total 151ms
+09-25 10:36:08.115: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:36:08.465: D/ApplicationPolicy(2238): isStatusBarNotificationAllowed: packageName = com.qihoo360.mobilesafe
+09-25 10:36:08.470: D/StatusBar(2550): expanding top notification at 6entry.userCollapsed() = false
+09-25 10:36:08.470: D/STATUSBAR-NotificationService(2238): Noti Alert - mSystemReady:true, AlertEnabled:true
+09-25 10:36:08.730: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:36:08.730: D/cocos2d-x debug info(6987): serTime  : (1411612173, 1411612184), 11
+09-25 10:36:08.745: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:36:08.805: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:08.805: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:08.805: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:08.805: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:09.645: V/AlarmManager(2238): waitForAlarm result :1
+09-25 10:36:09.805: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:09.805: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:09.810: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:09.810: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:16.970: I/charon(20509): 10[IKE] sending keep alive to 192.95.26.227[4670]
+09-25 10:36:17.825: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:17.825: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:17.825: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:17.825: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:18.710: D/dalvikvm(11365): GC_CONCURRENT freed 848K, 9% free 13421K/14727K, paused 2ms+3ms, total 29ms
+09-25 10:36:18.710: D/dalvikvm(11365): WAIT_FOR_CONCURRENT_GC blocked 10ms
+09-25 10:36:18.740: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:36:19.415: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:36:19.415: D/cocos2d-x debug info(6987): serTime  : (1411612184, 1411612195), 11
+09-25 10:36:19.430: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:36:19.990: D/BatteryService(2238): update start
+09-25 10:36:19.990: D/BatteryService(2238): level:86 scale:100 status:2 health:2 present:true voltage: 4141 temperature: 286 technology: Li-ion AC powered:false USB powered:true icon:17303211 invalid charger:0
+09-25 10:36:19.995: E/MtpService(18673): In MTPAPP onReceive:android.intent.action.BATTERY_CHANGED
+09-25 10:36:19.995: E/MtpService(18673): battPlugged Type : 2
+09-25 10:36:20.000: D/STATUSBAR-BatteryController(2550): onReceive() - ACTION_BATTERY_CHANGED
+09-25 10:36:20.000: D/STATUSBAR-BatteryController(2550): onReceive() - level:86
+09-25 10:36:20.000: D/STATUSBAR-BatteryController(2550): onReceive() - plugged:2
+09-25 10:36:20.000: D/STATUSBAR-BatteryController(2550): onReceive() - BATTERY_STATUS_CHARGING:
+09-25 10:36:20.005: D/STATUSBAR-PhoneStatusBar(2550): ACTION_BATTERY_CHANGED
+09-25 10:36:20.185: E/Watchdog(2238): !@Sync 2146
+09-25 10:36:20.250: E/OMXCodec(1938): [OMX.SEC.MP3.Decoder] err = -1011
+09-25 10:36:22.085: D/dalvikvm(2238): GC_CONCURRENT freed 1942K, 39% free 41029K/67079K, paused 8ms+13ms, total 144ms
+09-25 10:36:22.835: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:22.835: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:22.835: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:22.835: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:24.840: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:24.840: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:24.840: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:24.840: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:26.430: V/AlarmManager(2238): waitForAlarm result :8
+09-25 10:36:26.435: W/AlarmManager(2238): FACTORY_ON= 0
+09-25 10:36:26.845: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:26.845: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:26.845: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:26.845: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:28.510: D/ApplicationPolicy(2238): isStatusBarNotificationAllowed: packageName = com.qihoo360.mobilesafe
+09-25 10:36:28.515: D/STATUSBAR-NotificationService(2238): Noti Alert - mSystemReady:true, AlertEnabled:true
+09-25 10:36:28.520: D/StatusBar(2550): expanding top notification at 6entry.userCollapsed() = false
+09-25 10:36:28.770: W/SignalStrength(2238): getGsmLevel=2
+09-25 10:36:28.770: W/SignalStrength(2238): getLevel=2 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2)
+09-25 10:36:28.770: W/SignalStrength(2550): getGsmLevel=2
+09-25 10:36:28.770: W/SignalStrength(2550): getLevel=2 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2)
+09-25 10:36:28.770: W/SignalStrength(2550): getGsmLevel=2
+09-25 10:36:28.770: W/SignalStrength(2550): getLevel=2 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2)
+09-25 10:36:28.770: D/STATUSBAR-NetworkController(2550): onSignalStrengthsChanged signalStrength=SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2 level=2
+09-25 10:36:28.770: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:28.770: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:28.775: W/SignalStrength(2238): getGsmDbm=-105
+09-25 10:36:28.775: W/SignalStrength(2238): getDbm=-105
+09-25 10:36:28.775: W/SignalStrength(2238): getGsmAsuLevel=4
+09-25 10:36:28.775: W/SignalStrength(2238): getAsuLevel=4
+09-25 10:36:28.775: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:28.775: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:29.425: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:36:29.850: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:29.850: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:29.850: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:29.850: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:29.890: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:36:29.890: D/cocos2d-x debug info(6987): serTime  : (1411612195, 1411612205), 10
+09-25 10:36:29.920: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:36:32.855: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:32.855: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:32.855: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:32.855: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:33.865: W/SignalStrength(2238): getGsmLevel=2
+09-25 10:36:33.865: W/SignalStrength(2238): getLevel=2 (SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2)
+09-25 10:36:33.865: W/SignalStrength(2550): getGsmLevel=2
+09-25 10:36:33.865: W/SignalStrength(2550): getLevel=2 (SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2)
+09-25 10:36:33.865: W/SignalStrength(2550): getGsmLevel=2
+09-25 10:36:33.865: W/SignalStrength(2550): getLevel=2 (SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2)
+09-25 10:36:33.865: D/STATUSBAR-NetworkController(2550): onSignalStrengthsChanged signalStrength=SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 2 level=2
+09-25 10:36:33.870: W/SignalStrength(2238): getGsmDbm=-103
+09-25 10:36:33.870: W/SignalStrength(2238): getDbm=-103
+09-25 10:36:33.870: W/SignalStrength(2238): getGsmAsuLevel=5
+09-25 10:36:33.870: W/SignalStrength(2238): getAsuLevel=5
+09-25 10:36:36.970: I/charon(20509): 06[IKE] sending keep alive to 192.95.26.227[4670]
+09-25 10:36:37.865: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:37.865: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:37.865: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:37.865: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:38.870: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:38.870: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:38.870: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:38.870: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:39.045: D/dalvikvm(2238): GC_CONCURRENT freed 1928K, 39% free 41034K/67079K, paused 5ms+13ms, total 135ms
+09-25 10:36:39.905: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:36:40.415: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:36:40.415: D/cocos2d-x debug info(6987): serTime  : (1411612205, 1411612216), 11
+09-25 10:36:40.435: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:36:40.875: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:40.875: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:40.875: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:40.875: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:41.875: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:41.875: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:41.875: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:41.875: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:42.875: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:42.880: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:42.880: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:42.880: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:43.880: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:43.880: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:43.880: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:43.880: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:48.545: D/ApplicationPolicy(2238): isStatusBarNotificationAllowed: packageName = com.qihoo360.mobilesafe
+09-25 10:36:48.545: D/STATUSBAR-NotificationService(2238): Noti Alert - mSystemReady:true, AlertEnabled:true
+09-25 10:36:48.550: D/StatusBar(2550): expanding top notification at 6entry.userCollapsed() = false
+09-25 10:36:48.615: D/dalvikvm(3052): GC_FOR_ALLOC freed 1813K, 13% free 18150K/20679K, paused 66ms, total 67ms
+09-25 10:36:50.185: E/Watchdog(2238): !@Sync 2147
+09-25 10:36:50.430: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:36:50.895: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:50.895: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:50.895: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:50.895: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:50.915: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:36:50.915: D/cocos2d-x debug info(6987): serTime  : (1411612216, 1411612226), 10
+09-25 10:36:50.930: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:36:50.955: W/System.err(11365): java.net.SocketTimeoutException: failed to connect to ioswx27.moon.qq.com/1.1.1.1 (port 80) after 30000ms
+09-25 10:36:50.960: W/System.err(11365): 	at libcore.io.IoBridge.connectErrno(IoBridge.java:159)
+09-25 10:36:50.960: W/System.err(11365): 	at libcore.io.IoBridge.connect(IoBridge.java:112)
+09-25 10:36:50.960: W/System.err(11365): 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:192)
+09-25 10:36:50.960: W/System.err(11365): 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:459)
+09-25 10:36:50.960: W/System.err(11365): 	at java.net.Socket.connect(Socket.java:842)
+09-25 10:36:50.960: W/System.err(11365): 	at com.tencent.feedback.a.a.a(RQDSRC:112)
+09-25 10:36:50.960: W/System.err(11365): 	at com.tencent.feedback.a.c.run(RQDSRC:91)
+09-25 10:36:50.960: W/System.err(11365): 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:442)
+09-25 10:36:50.960: W/System.err(11365): 	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:305)
+09-25 10:36:50.960: W/System.err(11365): 	at java.util.concurrent.FutureTask.run(FutureTask.java:137)
+09-25 10:36:50.960: W/System.err(11365): 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:150)
+09-25 10:36:50.960: W/System.err(11365): 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:264)
+09-25 10:36:50.960: W/System.err(11365): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1076)
+09-25 10:36:50.960: W/System.err(11365): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:569)
+09-25 10:36:50.960: W/System.err(11365): 	at java.lang.Thread.run(Thread.java:856)
+09-25 10:36:52.900: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:52.900: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:52.900: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:52.900: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:54.900: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:54.900: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:54.900: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:54.900: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:55.905: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:55.905: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:55.905: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:55.905: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:56.005: D/BatteryService(2238): update start
+09-25 10:36:56.005: D/BatteryService(2238): level:86 scale:100 status:2 health:2 present:true voltage: 4157 temperature: 290 technology: Li-ion AC powered:false USB powered:true icon:17303211 invalid charger:0
+09-25 10:36:56.010: E/MtpService(18673): In MTPAPP onReceive:android.intent.action.BATTERY_CHANGED
+09-25 10:36:56.010: E/MtpService(18673): battPlugged Type : 2
+09-25 10:36:56.010: D/STATUSBAR-BatteryController(2550): onReceive() - ACTION_BATTERY_CHANGED
+09-25 10:36:56.015: D/STATUSBAR-BatteryController(2550): onReceive() - level:86
+09-25 10:36:56.015: D/STATUSBAR-BatteryController(2550): onReceive() - plugged:2
+09-25 10:36:56.015: D/STATUSBAR-BatteryController(2550): onReceive() - BATTERY_STATUS_CHARGING:
+09-25 10:36:56.015: D/STATUSBAR-PhoneStatusBar(2550): ACTION_BATTERY_CHANGED
+09-25 10:36:56.210: D/dalvikvm(2238): GC_CONCURRENT freed 1936K, 39% free 41033K/67079K, paused 4ms+15ms, total 144ms
+09-25 10:36:56.560: D/MSF.C.NetConnTag(11365): [E]netRecv ssoSeq:238223034 uin:*5208
+09-25 10:36:56.600: D/Q.msg.MsgProxy(11299): [E]insertToList MessageRecord=friendUin:2778senderuin:3889,istroop:3000,msgType:-1000,time:1411612581,shmsgseq:9183
+09-25 10:36:56.715: D/MSF.C.NetConnTag(11365): [E]netSend ssoSeq:7888 uin:*5208
+09-25 10:36:56.715: D/MainService(11299): [MSF End]OnlinePush.PbPushDisMsg,cost=151ms.
+09-25 10:36:56.905: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:56.905: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:56.905: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:56.905: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:56.970: I/charon(20509): 13[IKE] sending keep alive to 192.95.26.227[4670]
+09-25 10:36:56.975: W/SignalStrength(2238): getGsmLevel=1
+09-25 10:36:56.975: W/SignalStrength(2238): getLevel=1 (SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:36:56.975: W/SignalStrength(2550): getGsmLevel=1
+09-25 10:36:56.975: W/SignalStrength(2550): getLevel=1 (SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:36:56.975: W/SignalStrength(2550): getGsmLevel=1
+09-25 10:36:56.975: D/STATUSBAR-NetworkController(2550): onSignalStrengthsChanged signalStrength=SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1 level=1
+09-25 10:36:56.980: W/SignalStrength(2550): getLevel=1 (SignalStrength: 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:36:56.980: W/SignalStrength(2238): getGsmDbm=-103
+09-25 10:36:56.980: W/SignalStrength(2238): getDbm=-103
+09-25 10:36:56.980: W/SignalStrength(2238): getGsmAsuLevel=5
+09-25 10:36:56.980: W/SignalStrength(2238): getAsuLevel=5
+09-25 10:36:56.980: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:56.980: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:56.985: W/SignalStrength(2238): getGsmLevel=1
+09-25 10:36:56.985: W/SignalStrength(2238): getLevel=1 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:36:56.985: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:56.985: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:56.990: W/SignalStrength(2238): getGsmDbm=-105
+09-25 10:36:56.990: W/SignalStrength(2238): getDbm=-105
+09-25 10:36:56.990: W/SignalStrength(2238): getGsmAsuLevel=4
+09-25 10:36:56.990: W/SignalStrength(2238): getAsuLevel=4
+09-25 10:36:57.005: W/SignalStrength(2550): getGsmLevel=1
+09-25 10:36:57.005: W/SignalStrength(2550): getLevel=1 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:36:57.005: W/SignalStrength(2550): getGsmLevel=1
+09-25 10:36:57.005: W/SignalStrength(2550): getLevel=1 (SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1)
+09-25 10:36:57.005: D/STATUSBAR-NetworkController(2550): onSignalStrengthsChanged signalStrength=SignalStrength: 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 1 level=1
+09-25 10:36:59.910: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:36:59.910: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:59.910: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:59.910: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:36:59.995: V/AlarmManager(2238): waitForAlarm result :8
+09-25 10:36:59.995: V/AlarmManager(2238): ClockReceiver onReceive() ACTION_TIME_TICK
+09-25 10:36:59.995: W/AlarmManager(2238): FACTORY_ON= 0
+09-25 10:37:00.005: D/STATUSBAR-Clock(2550): onReceive() - ACTION_TIME_TICK
+09-25 10:37:00.025: D/STATUSBAR-Clock(2550): onReceive() - ACTION_TIME_TICK
+09-25 10:37:00.145: D/PhoneNumberLocatorBootCompletedReceiver(2725): onReceive
+09-25 10:37:00.145: D/PhoneNumberLocatorBootCompletedReceiver(2725): PhoneNumberLocatorBootCompletedReceiver.onReceive(ACTION_TIME_TICK)
+09-25 10:37:00.150: D/ClockAlarmWidgetService(20454): [ClockAlarmWidgetService] onReceive: action = android.intent.action.TIME_TICK
+09-25 10:37:00.150: E/ClockAlarmWidget(20454): [AlarmWidgetIdManager] getListItem() : itemIndex=0, widgetID:1
+09-25 10:37:00.150: E/ClockAlarmWidget(20454): [AlarmWidgetIdManager] getListItem() : ItemIndex exceed ListItemCount. itemIndex=1
+09-25 10:37:00.150: E/ClockAlarmWidget(20454): [AlarmWidgetIdManager] getListItem() : itemIndex=1, widgetID:1
+09-25 10:37:00.150: D/ClockAlarmWidget(20454): [ClockAlarmWidgetProvider] fillData() - itemIndex:0, listitemID: 0
+09-25 10:37:00.165: D/ClockAlarmDataProvider(20454): getAlarm() - too many same ID alarm data. nCount: 0
+09-25 10:37:00.165: D/ClockAlarmWidget(20454): alarmItem = null
+09-25 10:37:00.920: D/cocos2d-x debug info(6987): Send Message : CSPingReq
+09-25 10:37:01.405: D/cocos2d-x debug info(6987): DidReadCompleted bufflen 18 ,ubyes 18
+09-25 10:37:01.405: D/cocos2d-x debug info(6987): serTime  : (1411612226, 1411612237), 11
+09-25 10:37:01.425: D/cocos2d-x debug info(6987): NotificationCenter.cpp line:199 msg:0x10000054
+09-25 10:37:01.915: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:37:01.915: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:01.915: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:01.915: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:02.920: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:37:02.920: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:02.920: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:02.920: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:08.585: D/ApplicationPolicy(2238): isStatusBarNotificationAllowed: packageName = com.qihoo360.mobilesafe
+09-25 10:37:08.585: D/STATUSBAR-NotificationService(2238): Noti Alert - mSystemReady:true, AlertEnabled:true
+09-25 10:37:08.590: D/StatusBar(2550): expanding top notification at 6entry.userCollapsed() = false
+09-25 10:37:09.775: D/MSF.C.NetConnTag(11365): [E]netRecv ssoSeq:238249420 uin:*5208
+09-25 10:37:09.815: D/Q.msg.MsgProxy(11299): [E]insertToList MessageRecord=friendUin:2778senderuin:7367,istroop:3000,msgType:-1000,time:1411612595,shmsgseq:9184
+09-25 10:37:09.900: D/MSF.C.NetConnTag(11365): [E]netSend ssoSeq:7889 uin:*5208
+09-25 10:37:09.905: D/MainService(11299): [MSF End]OnlinePush.PbPushDisMsg,cost=124ms.
+09-25 10:37:09.935: D/STATUSBAR-NetworkController(2550): refreshSignalCluster: data=0 bt=false
+09-25 10:37:09.935: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:09.935: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:09.935: D/STATUSBAR-SignalClusterView(2550): mSeparateMobileGroup=8
+09-25 10:37:10.145: V/AwesomePlayer(1938): seekAudioIfNecessary_l mSeekTimeUs (0)
+09-25 10:37:10.145: V/AudioSink(1938): flush
+09-25 10:37:10.210: V/AwesomePlayer(1938): notifyListner_l() msg (4-MEDIA_SEEK_COMPLETE), ext1 (0), ext2 (0)
+09-25 10:37:10.210: V/MediaPlayerService(1938): [107] notify (0x41b44e30, 4, 0, 0)
+09-25 10:37:10.210: V/MediaPlayer(6987): message received msg=4, ext1=0, ext2=0
+09-25 10:37:10.210: V/MediaPlayer(6987): Received seek complete
+09-25 10:37:10.210: V/MediaPlayer(6987): All seeks complete - return to regularly scheduled program
+09-25 10:37:10.210: V/MediaPlayer(6987): callback application
+09-25 10:37:10.210: V/MediaPlayer(6987): back from callback
+09-25 10:37:10.385: W/PowerManagerService(2238): Timer 0x3->0x1|0x3
